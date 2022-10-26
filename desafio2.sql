@@ -3,7 +3,7 @@ SELECT
     COUNT(DISTINCT A.artista_id) AS 'artistas',
     COUNT(DISTINCT AL.album_id) AS 'albuns'
 FROM
-     SpotifyClone.musicas AS M
+    SpotifyClone.musicas AS M
         INNER JOIN
     SpotifyClone.artistas AS A
         INNER JOIN
