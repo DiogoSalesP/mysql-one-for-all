@@ -8,4 +8,4 @@ FROM
         INNER JOIN
     SpotifyClone.historico_reporducoes AS status_usuario ON usuario.usuario_id = status_usuario.usuario_id
 GROUP BY usuario_name
-ORDER BY usuario_name
+ORDER BY usuario_name;
