@@ -84,14 +84,14 @@ DROP DATABASE IF EXISTS SpotifyClone;
 INSERT INTO SpotifyClone.musicas (musica_name, duracao_segundos, album_id, artista_id)
 VALUES
   ('BREAK MY SOUL', 279, 1, 1),
-  ('VIRGOS GROOVE', 369, 1, 1),
+  ('VIRGO’S GROOVE', 369, 1, 1),
   ('ALIEN SUPERSTAR', 116, 1, 1),
-  ('Dont Stop Me Now', 203, 2, 2),
+  ('Don’t Stop Me Now', 203, 2, 2),
   ('Under Pressure', 152, 2, 2),
   ('Como Nossos Pais', 105, 3, 3),
   ('O Medo de Amar é o Medo de Ser Livre', 207, 3, 3),
   ('Samba em Paris', 267, 4, 4),
-  ('The Bards Song', 244, 5, 5),
+  ('The Bard’s Song', 244, 5, 5),
   ('Feeling Good', 100, 6, 6);
 
   CREATE TABLE SpotifyClone.historico_reporducoes(
