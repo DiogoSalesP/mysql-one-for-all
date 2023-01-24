@@ -1,10 +1,10 @@
-# :construction: README customizado em construção ! :construction:
-
 # Boas vindas ao repositório do projeto One For All !
 
 No projeto One For All, foi usado uma tabela para revisar e consolidar todos os principais conceitos vistos sobre introdução ao SQL (Banco de dados SQL, Encontrando dados em um banco de dados, Filtrando dados de forma específica, Manipulando tabelas).
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório.
+
+Projeto desenvolvido na Trybe !
 
 ## Orientações
 
